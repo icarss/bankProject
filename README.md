@@ -1,5 +1,5 @@
 # bankProject
-网课课后作业
+Jonas.io 的网课课后作业，
 使用JS 编写的银行转账网页
 
 - 用户1：js     PIN:1111
